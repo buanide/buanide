@@ -27,7 +27,7 @@ Feel free to explore my projects below to see my progress and the areas I'm focu
 - Implemented state-of-the-art algorithms from the literature on **Speech Emotion Recognition (SER)** to analyze emotional patterns in speech data.
 - Trained models using audio features extracted with a model that have been trained with **emotion2vec+large** features , leveraging advanced embeddings to improve emotion classification accuracy.
 
-### [Toxic comments classfication] (https://github.com/buanide/comments_classification)
+[### Toxic comments classfication] (https://github.com/buanide/comments_classification)
 
 This was an individual project at Polytech Lille.
 

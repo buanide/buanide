@@ -37,7 +37,7 @@ This was an individual project at Polytech Lille.
 
 ## Data Analysis Projects
 
-### Scooter Users Satisfaction Project
+### [Scooter Users Satisfaction Project](https://github.com/buanide/Scooter-user-satisfaction)
 
 This was a team project at Polytech Lille involving a group of 6 members.
 

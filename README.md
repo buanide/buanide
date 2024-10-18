@@ -3,7 +3,7 @@
 I am a **Junior Data Scientist** with a passion for learning and applying data-driven solutions. I have a solid foundation in:
 - **Machine Learning**
 - **Statistics**
-- **Deep Learning**
+- **Databases**
 
 I am continuously building my portfolio of projects, applying my skills to solve real-world problems. My long-term goal is to become a highly skilled **Data Scientist**, capable of delivering insights and solutions to complex challenges.
 

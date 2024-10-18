@@ -7,7 +7,7 @@ I am a **Junior Data Scientist** with a passion for learning and applying data-d
 
 I am continuously building my portfolio of projects, applying my skills to solve real-world problems. My long-term goal is to become a highly skilled **Data Scientist**, capable of delivering insights and solutions to complex challenges.
 
-Feel free to explore my projects below to see my progress and the areas I'm focusing on. (All the projects are not updated but they will be soon)
+Feel free to explore my projects below to see my progress and the areas I'm focusing on. Please note that some projects are still in the process of being updated, but new additions are coming soon.
 
 ## What I'm Working On:
 

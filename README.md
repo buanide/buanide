@@ -16,7 +16,7 @@ Feel free to explore my projects below to see my progress and the areas I'm focu
 - 🤖 Expanding my knowledge in **natural language processing (NLP)** and exploring innovative algorithms.
 - 📈 I also enjoy **scraping sports data** and creating **visually appealing charts** to tell data-driven stories.
 - 💡 Always on the lookout for new challenges in data science, staying updated with the latest trends and research papers.
-- ⚙️ Build my skills in Devops en Data Engineering to maintain clear and efficient pipelines
+- ⚙️ Build my skills in **Devops** en **Data Engineering** to maintain clear and efficient pipelines
 
 
 ## Data Science Projects
